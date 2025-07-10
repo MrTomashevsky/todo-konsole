@@ -62,13 +62,13 @@ struct DataRecord {
 
 ```json
 {
- separatorRecord: "\u001b\u001b\u001b\u001b",
- separatorLine: "\u001b\u001b",
- fileName: ".records.records",
- colorCross1: "1;31",
- colorCross2: "31",
- colorNoCross1: "1;37",
- colorNoCross1: "37"
+  "separatorRecord": "\u001b\u001b\u001b\u001b",
+  "separatorLine": "\u001b\u001b",
+  "fileName": ".records.records",
+  "colorCross1": "1;31",
+  "colorCross2": "31",
+  "colorNoCross1": "1;37",
+  "colorNoCross2": "37"
 }
 ```
 
